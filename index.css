@@ -1,0 +1,11 @@
+/* Primitives */
+@import './src/primitives/colors.css';
+@import './src/primitives/font-size.css';
+@import './src/primitives/line-height.css';
+@import './src/primitives/spacing.css';
+
+/* Variables */
+@import './src/background-color.css';
+@import './src/border-color.css';
+@import './src/foreground-color.css';
+@import './src/text-color.css';
