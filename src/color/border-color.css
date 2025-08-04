@@ -1,3 +1,5 @@
+@import '../primitives/colors.css';
+
 @theme {
     --outline-color-primary: var(--color-gray-300);
     --outline-color-secondary: var(--color-gray-200);

@@ -1,4 +1,4 @@
-@import './primitives/spacing.css';
+@import '../primitives/spacing.css';
 
 @theme {
     --padding-mobile: var(--spacing-4);

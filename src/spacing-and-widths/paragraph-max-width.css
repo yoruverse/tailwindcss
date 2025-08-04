@@ -1,4 +1,4 @@
-@import './primitives/spacing.css';
+@import '../primitives/spacing.css';
 
 @theme {
     --paragraph-max-width: var(--spacing-180);

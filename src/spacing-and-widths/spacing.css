@@ -1,4 +1,4 @@
-@import './primitives/spacing.css';
+@import '../primitives/spacing.css';
 
 @theme {
     --spacing-none: var(--spacing-0);

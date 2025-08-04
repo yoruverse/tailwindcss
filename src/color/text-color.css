@@ -1,3 +1,5 @@
+@import '../primitives/colors.css';
+
 @theme {
     --text-color-primary: var(--color-gray-900);
     --text-color-primary-on-brand: var(--color-white);

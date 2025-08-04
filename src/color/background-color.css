@@ -1,4 +1,4 @@
-@import './primitives/colors.css';
+@import '../primitives/colors.css';
 
 @theme {
     --color-bg-primary: var(--color-white);

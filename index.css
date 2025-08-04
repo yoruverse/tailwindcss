@@ -9,3 +9,12 @@
 @import './src/color/border-color.css';
 @import './src/color/foreground-color.css';
 @import './src/color/text-color.css';
+
+/* Spacing and Widths */
+@import './src/spacing-and-widths/container.css';
+@import './src/spacing-and-widths/paragraph-max-width.css';
+@import './src/spacing-and-widths/spacing.css';
+@import './src/spacing-and-widths/width.css';
+
+/* Radius */
+@import './src/radius/radius.css';

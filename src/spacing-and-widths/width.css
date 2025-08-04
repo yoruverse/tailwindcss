@@ -1,4 +1,4 @@
-@import './primitives/spacing.css';
+@import '../primitives/spacing.css';
 
 @theme {
     --width-xxs: var(--spacing-80);
