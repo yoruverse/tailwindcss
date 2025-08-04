@@ -1,0 +1,15 @@
+@import './primitives/spacing.css';
+
+@theme {
+    --rounded-none: var(--spacing-0);
+    --rounded-xxs: var(--spacing-0-5);
+    --rounded-xs: var(--spacing-1);
+    --rounded-sm: var(--spacing-1-5);
+    --rounded-md: var(--spacing-2);
+    --rounded-lg: var(--spacing-2-5);
+    --rounded-xl: var(--spacing-3);
+    --rounded-2xl: var(--spacing-4);
+    --rounded-3xl: var(--spacing-5);
+    --rounded-4xl: var(--spacing-6);
+    --rounded-full: 99999px;
+}

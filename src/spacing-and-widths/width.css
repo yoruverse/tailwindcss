@@ -1,13 +1,15 @@
+@import './primitives/spacing.css';
+
 @theme {
-    --width-xxs: 5rem;
-    --width-xss: 6rem;
-    --width-sm: 7.5rem;
-    --width-md: 8.75rem;
-    --width-6xl: 30rem;
-    --width-5xl: 25rem;
-    --width-4xl: 22.5rem;
-    --width-3xl: 20rem;
-    --width-2xl: 16rem;
-    --width-xl: 12rem;
-    --width-lg: 10rem;
+    --width-xxs: var(--spacing-80);
+    --width-xs: var(--spacing-96);
+    --width-sm: var(--spacing-120);
+    --width-md: var(--spacing-140);
+    --width-lg: var(--spacing-160);
+    --width-xl: var(--spacing-192);
+    --width-2xl: var(--spacing-256);
+    --width-3xl: var(--spacing-320);
+    --width-4xl: var(--spacing-360);
+    --width-5xl: var(--spacing-400);
+    --width-6xl: var(--spacing-480);
 }

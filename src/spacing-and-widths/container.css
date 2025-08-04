@@ -1,5 +1,7 @@
+@import './primitives/spacing.css';
+
 @theme {
-    --padding-mobile: 1rem;
-    --padding-desktop: 2rem;
-    --max-width-desktop: 20rem;
+    --padding-mobile: var(--spacing-4);
+    --padding-desktop: var(--spacing-8);
+    --max-width-desktop: var(--spacing-20);
 }
