@@ -1,12 +1,29 @@
 {
   "name": "@yoruverse-js/tailwindcss",
   "version": "1.0.2",
-  "main": "index.js",
+  "main": "index.css",
+  "files": [
+    "index.css",
+    "src/"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "keywords": [
+    "tailwindcss",
+    "design-system",
+    "css",
+    "yoruverse",
+    "utilities"
+  ],
+  "author": {
+    "name": "Jotis",
+    "email": "jotis@yoruverse.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoruverse-dev/tailwindcss.git"
+  },
+  "license": "MIT",
+  "description": "Sistema de utilidades CSS para Tailwind, creado por Yoruverse. Incluye variables y utilidades para colores, espaciados, radios y más."
 }
