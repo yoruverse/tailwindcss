@@ -1,0 +1,13 @@
+@theme {
+    --width-xxs: 5rem;
+    --width-xss: 6rem;
+    --width-sm: 7.5rem;
+    --width-md: 8.75rem;
+    --width-6xl: 30rem;
+    --width-5xl: 25rem;
+    --width-4xl: 22.5rem;
+    --width-3xl: 20rem;
+    --width-2xl: 16rem;
+    --width-xl: 12rem;
+    --width-lg: 10rem;
+}
