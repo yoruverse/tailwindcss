@@ -1,20 +1,20 @@
 @import '../primitives/colors.css';
 
 @theme {
-    --text-color-primary: var(--color-gray-900);
+    --text-color-primary: var(--color-gray-light-900);
     --text-color-primary-on-brand: var(--color-white);
-    --text-color-secondary: var(--color-gray-700);
+    --text-color-secondary: var(--color-gray-light-700);
     --text-color-secondary-on-brand: var(--color-brand-200);
-    --text-color-secondary-hover: var(--color-gray-800);
+    --text-color-secondary-hover: var(--color-gray-light-800);
     --text-color-tertiary-on-brand: var(--color-brand-200);
-    --text-color-tertiary-hover: var(--color-gray-700);
-    --text-color-tertiary: var(--color-gray-600);
-    --text-color-quaternary: var(--color-gray-500);
+    --text-color-tertiary-hover: var(--color-gray-light-700);
+    --text-color-tertiary: var(--color-gray-light-600);
+    --text-color-quaternary: var(--color-gray-light-500);
     --text-color-quaternary-on-brand: var(--color-brand-300);
     --text-color-white: var(--color-white);
-    --text-color-disabled: var(--color-gray-500);
-    --text-color-placeholder: var(--color-gray-500);
-    --text-color-placeholder-subtle: var(--color-gray-300);
+    --text-color-disabled: var(--color-gray-light-500);
+    --text-color-placeholder: var(--color-gray-light-500);
+    --text-color-placeholder-subtle: var(--color-gray-light-300);
     --text-color-brand-primary: var(--color-brand-900);
     --text-color-brand-secondary: var(--color-brand-700);
     --text-color-brand-tertiary: var(--color-brand-600);
@@ -25,27 +25,25 @@
 }
 
 .dark {
-    --text-color-primary: var(--color-gray-50);
-    --text-color-primary-on-brand: var(--color-white);
-    --text-color-secondary: var(--color-gray-300);
-    --text-color-secondary-on-brand: var(--color-brand-300);
-    --text-color-secondary-hover: var(--color-gray-200);
-    --text-color-tertiary-hover: var(--color-gray-400);
-    --text-color-tertiary: var(--color-gray-400);
-    --text-color-quaternary: var(--color-gray-500);
-    --text-color-quaternary-hover: var(--color-gray-300);
-    --text-color-quinary: var(--color-gray-500);
-    --text-color-quinary-hover: var(--color-gray-400);
-    --text-color-senary: var(--color-gray-600);
-    --text-color-disabled: var(--color-gray-500);
-    --text-color-disabled-subtle: var(--color-gray-600);
-    --text-color-brand-primary: var(--color-brand-600);
-    --text-color-brand-primary-alt: var(--color-brand-600);
-    --text-color-brand-secondary: var(--color-brand-500);
-    --text-color-error-primary: var(--color-error-600);
-    --text-color-error-secondary: var(--color-error-500);
-    --text-color-warning-primary: var(--color-warning-600);
-    --text-color-warning-secondary: var(--color-warning-500);
-    --text-color-success-primary: var(--color-success-600);
-    --text-color-success-secondary: var(--color-success-500);
+    --text-color-primary: var(--color-gray-dark-50);
+    --text-color-primary-on-brand: var(--color-gray-dark-50);
+    --text-color-secondary: var(--color-gray-dark-300);
+    --text-color-secondary-on-brand: var(--color-gray-dark-300);
+    --text-color-secondary-hover: var(--color-gray-dark-200);
+    --text-color-tertiary-on-brand: var(--color-gray-dark-400);
+    --text-color-tertiary-hover: var(--color-gray-dark-300);
+    --text-color-tertiary: var(--color-gray-dark-400);
+    --text-color-quaternary: var(--color-gray-dark-400);
+    --text-color-quaternary-on-brand: var(--color-gray-dark-400);
+    --text-color-white: var(--color-white);
+    --text-color-disabled: var(--color-gray-dark-500);
+    --text-color-placeholder: var(--color-gray-dark-400);
+    --text-color-placeholder-subtle: var(--color-gray-dark-700);
+    --text-color-brand-primary: var(--color-gray-dark-50);
+    --text-color-brand-secondary: var(--color-gray-dark-300);
+    --text-color-brand-tertiary: var(--color-gray-dark-400);
+    --text-color-brand-tertiary-alt: var(--color-gray-dark-50);
+    --text-color-error-primary: var(--color-error-400);
+    --text-color-warning-primary: var(--color-warning-400);
+    --text-color-success-primary: var(--color-success-400);
 }
