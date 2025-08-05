@@ -1,4 +1,4 @@
-# @yoruverse-js/tailwindcss
+# Yoruverse TailwindCSS
 
 Sistema de utilidades CSS para Tailwind, creado por Yoruverse.
 
