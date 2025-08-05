@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yoruverse-dev/tailwindcss.git"
+    "url": "https://github.com/yoruverse/tailwindcss.git"
   },
   "license": "MIT",
   "description": "Sistema de utilidades CSS para Tailwind, creado por Yoruverse. Incluye variables y utilidades para colores, espaciados, radios y más."
