@@ -12,4 +12,26 @@
     --width-4xl: var(--spacing-360);
     --width-5xl: var(--spacing-400);
     --width-6xl: var(--spacing-480);
+    --max-width-xxs: var(--spacing-80);
+    --max-width-xs: var(--spacing-96);
+    --max-width-sm: var(--spacing-120);
+    --max-width-md: var(--spacing-140);
+    --max-width-lg: var(--spacing-160);
+    --max-width-xl: var(--spacing-192);
+    --max-width-2xl: var(--spacing-256);
+    --max-width-3xl: var(--spacing-320);
+    --max-width-4xl: var(--spacing-360);
+    --max-width-5xl: var(--spacing-400);
+    --max-width-6xl: var(--spacing-480);
+    --min-width-xxs: var(--spacing-80);
+    --min-width-xs: var(--spacing-96);
+    --min-width-sm: var(--spacing-120);
+    --min-width-md: var(--spacing-140);
+    --min-width-lg: var(--spacing-160);
+    --min-width-xl: var(--spacing-192);
+    --min-width-2xl: var(--spacing-256);
+    --min-width-3xl: var(--spacing-320);
+    --min-width-4xl: var(--spacing-360);
+    --min-width-5xl: var(--spacing-400);
+    --min-width-6xl: var(--spacing-480);
 }
