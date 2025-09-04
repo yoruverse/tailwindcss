@@ -16,3 +16,6 @@
 
 /* Radius */
 @import './src/radius/radius.css';
+
+/* Typography */
+@import './src/typography/typography.css';
